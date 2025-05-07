@@ -12,3 +12,7 @@ cats:
 Welcome to my awesome page about cats of the internet.
 
 This page is built with NextJS, and content is managed in Decap CMS
+
+
+
+![](img/827778df-440e-4921-a2fb-f5a3d1fcf32b.png)

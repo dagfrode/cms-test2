@@ -3,6 +3,7 @@ backend:
   repo: dagfrode/cms-test2
   branch: main # Branch to update (optional; defaults to master)
 media_folder: public/img
+publish_mode: editorial_workflow
 public_folder: img
 collections:
   - name: "pages"
